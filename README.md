@@ -1,14 +1,14 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=24112827&assignment_repo_type=AssignmentRepo)
 # Day 10 Lab: Data Pipeline & Data Observability
 
-**Student Email:** email@example.com
-**Name:** (Dien ten cua ban)
+**Student Email:** maykhanh004@gmail.com
+**Name:** Võ Huyền Khánh Mây
 
 ---
 
 ## Mo ta
 
-(Mo ta ngan gon bai lab va nhung gi ban da lam)
+Thử xây dựng một ETL pipeline đơn giản xử lý so sánh dữ liệu sạch và dữ liệu rác, so sánh chất lượng của dữ liệu ảnh hưởng tới kết quả của một AI Agent như thế nào.
 
 ---
 

@@ -2,7 +2,7 @@
 # Day 10 Lab: Data Pipeline & Data Observability
 
 **Student Email:** maykhanh004@gmail.com
-**Name:** Võ Huyền Khánh Mây
+**Name:** Võ Huyền Khánh Mây - 2A202600858
 
 ---
 
@@ -44,4 +44,7 @@ python solution.py
 
 ## Ket qua
 
-(Tom tat ket qua: bao nhieu records da xu ly, bao nhieu bi loai, v.v.)
+processed_data.csv chứa dữ liệu được xử lý
+garbage_data.csv chứa dữ liệu rác
+experiment_report.md chứa báo cáo kết quả thí nghiệm và phân tích
+--> nói chung ai agent/hệ thống tốt thế nào mà data không được xử lý tốt thì cũng bỏ.

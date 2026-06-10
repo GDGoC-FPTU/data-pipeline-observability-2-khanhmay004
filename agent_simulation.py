@@ -7,7 +7,6 @@ def simulate_agent_response(query, data_path):
     """
     try:
         df = pd.read_csv(data_path)
-        
         # Simple Logic: Look for the product with highest price or matching category
         if "electronic" in query.lower():
             subset = df[df['category'].str.lower() == 'electronics']
